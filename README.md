@@ -1,3 +1,5 @@
+[Patika.dev](https://www.patika.dev/tr)
+
 # [22,27,16,2,18,6]->Insertion Sort
 # 1.Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
 
@@ -36,5 +38,3 @@ Average case
 [2,3,4,5,|7,9,8,15,6]
 
 [2,3,4,5,6,|9,8,15,7]
-
-www.patika.dev
